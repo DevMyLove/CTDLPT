@@ -1,0 +1,414 @@
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.AssemblyReference.cache
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.Properties.Resources.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.GenerateResource.cache
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.CoreCompileInputs.cache
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.exe.config
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.exe
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.pdb
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.exe
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.pdb
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmLogin.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmMain.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.exe.licenses
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmSinhVien.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmKhoa.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Xpo.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.CodeParser.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Xpo.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmDeThi.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmThi.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.CauHoiItem.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmGVDK.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmXemKQThi.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmMonHoc.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmBangDiem.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmNewAcc.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Images.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.BangDiem_Report.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmLop.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmGiaoVien.resources
+C:\PROJECT CODE\Visual studio\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmQLSV.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.exe.config
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.exe
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\TN_CSDLPT.pdb
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Images.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Data.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.AssemblyReference.cache
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.CauHoiItem.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmBangDiem.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmDeThi.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmGiaoVien.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmGVDK.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmKhoa.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmLogin.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmLop.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmMain.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmMonHoc.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmNewAcc.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmQLSV.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmSinhVien.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmThi.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.FrmXemKQThi.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.Properties.Resources.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.BangDiem_Report.resources
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.GenerateResource.cache
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.exe.licenses
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.CoreCompileInputs.cache
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.csproj.CopyComplete
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.exe
+E:\PROJECT CODE\Visual Studio 2019\TN_CSDLPT\TN_CSDLPT\obj\Debug\TN_CSDLPT.pdb
